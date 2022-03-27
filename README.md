@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @1AGRESSOR
-https://twitter.com/1agressor
+https://linktr.ee/1agressor
 
 <!---
 1AGRESSOR/1AGRESSOR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
